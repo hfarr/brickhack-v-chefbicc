@@ -1,7 +1,6 @@
 # brickhack-v-chefbicc
-BrickHack V repository.
+Moodswing App
 
-## Branch: Backend ##
+Built for Brickhack V
 
-Sets up a basic Node.js server.
-
+[View the project on devpost](https://devpost.com/software/brickhack-v-chefbicc "Moodswing")
